@@ -223,7 +223,7 @@ if __name__ == "__main__":
     ins	:	531
     mnp	:	38
 
-![plot](variantComposition.png)
+
 
 
 
