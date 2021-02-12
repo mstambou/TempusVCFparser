@@ -19,7 +19,7 @@ The python packages imported by this script are listed here:
 ```
 
     
-    ![plot](variantComposition.png)
+![plot](variantComposition.png)
 
 
 ```python
