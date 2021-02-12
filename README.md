@@ -16,6 +16,8 @@ For this challenge, you are asked to prototype a variant annotation tool. We wil
 Please upload all relevant code (written in whatever language you like) to a public repo on GitHub. Be sure to include the annotated variants in a csv/tsv file. Please also upload a README with the link to the repo via dropbox. Note that work will be assessed based on quality of code and documentation more-so than the annotation.
 </em>
 
+## Provided solutions:
+
 There is one main python3 script that takes a VCF file as input pased by the -i option as well as an output directory where it will store the parsed output in table format, specified by the -o option. Example to run this script:
 
 ```python3
