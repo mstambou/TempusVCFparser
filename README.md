@@ -19,11 +19,11 @@ The python packages imported by this script are listed here:
 ```
 
     There were a total of 6977, variants identified, composed of 5, types
-    snp	    :	5377
+    snp	:	5377
     complex	:	112
-    del	    :	919
-    ins 	:	531
-    mnp	    :	38
+    del	:	919
+    ins	:	531
+    mnp	:	38
 
 
     
