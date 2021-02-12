@@ -18,6 +18,14 @@ The python packages imported by this script are listed here:
     from collections import Counter
 ```
 
+    There were a total of 6977, variants identified, composed of 5, types
+    snp	    :	5377
+    complex	:	112
+    del	    :	919
+    ins 	:	531
+    mnp	    :	38
+
+
     
 ![plot](variantComposition.png)
 
@@ -215,17 +223,4 @@ if __name__ == "__main__":
     fig.show()
 ```
 
-    reading the vcf file ...
-    retrieving query requests from ExAC db REST API, pleaese be patient ...
-    writing parsed VCF into table file ...
-    There were a total of 6977, variants identified, composed of 5, types
-    snp	:	5377
-    complex	:	112
-    del	:	919
-    ins	:	531
-    mnp	:	38
-
-
-
-
-
+   
